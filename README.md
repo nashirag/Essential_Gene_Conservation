@@ -10,4 +10,6 @@ This notebook contains the determination of an essential gene list in *Escherich
 Here the essential gene list of *Bacillus subtilis* is compiled through three previously published datasets that apply targeted knockout approaches and CRISPRi.
 
 3. OrthoDB_GeneFinding.ipynb
-To search for orthologs, the ortholog database was obtained from OrthoDB then manually searched for the relevant essential genes, to create a list of essential orthologous groups for *B. subtilis* and *E. coli*.
+To search for orthologs, the ortholog database was obtained from OrthoDB then manually searched for the relevant essential genes, to create a list of essential orthologous groups for *B. subtilis* and *E. coli*. As the files were too large to be included, please refer to OrthoDB to obtain source files, then utilize the notebook to recreate the resulting datasets.
+
+We refer users to the readme.txt for environment requirements to successfully run these notebooks.
