@@ -1,0 +1,107 @@
+Gene	Product
+abnA	arabinan-endo 1,5-alpha-L-arabinase
+ahpF	alkyl hydroperoxide reductase large subunit 
+amyD	multiple sugar transport system permease protein 
+amyX	pullulanase
+argB	N -acetylglutamate 5-phosphotransferase
+argC	N -acetylglutamate -semialdehyde dehydrogenase
+argD	acetylornithine aminotransferase
+argF	ornithine carbamoyltransferase, anabolic
+argG	argininosuccinate synthase
+argH	argininosuccinate lyase
+argJ	glutamate N -acetyltransferase/amino-acid N -acetyltransferase
+aspB	aspartate aminotransferase
+atpB	ATP synthase a chain
+atpE	ATP synthase c chain
+atpI	ATP synthase protein i
+bglH	-glucosidase
+bioD	dethiobiotin synthetase
+bmrU	multidrug resistance protein cotranscribed with bmr 
+fhuB	ferrichrome transport system permease protein
+fhuC	ferrichrome transport system ATP-binding protein 
+fhuD	ferrichrome transport system substrate-binding protein 
+fhuG	ferrichrome transport system permease protein
+flgB	flagellar basal-body rod protein
+flgC	flagellar basal-body rod protein
+flgL	flagellar hook-associated protein 3 (HAP3)
+flhP	flagellar hook-basal body protein
+fliE	flagellar hook-basal body complex protein
+fliF	flagellar basal-body M-ring protein
+gerKA	spore germination protein KA
+gerKB	spore germination protein KB
+gerKC	spore germination protein KC
+glnH	glutamine transport system substrate-binding protein
+glnM	glutamine transport system permease protein
+glnP	glutamine transport system permease protein
+glnQ	glutamine transport system ATP-binding protein
+gltB	glutamate synthase (NADPH) small chain
+gltP	proton/glutamate symport protein
+gltT	proton/sodium-glutamate symport protein
+hisB	imidazoleglycerol-phosphate dehydratase
+hisD	histidinol dehydrogenase
+hisF	cyclase
+hisI	phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphohydrolase 
+ilvH	acetolactate synthase small subunit
+licA	PTS lichenan-specific enzyme IIA component
+licB	PTS lichenan-specific enzyme IIB component
+licH	6-phospho--glucosidase
+lysA	diaminopimelate decarboxylase
+metA	homoserine O -succinyltransferase
+metE	cobalamin-independent methionine synthase
+moaD	molybdopterin converting factor subunit 1
+opuAA	glycine betaine transport system ATP-binding protein
+opuBA	glycine betaine/proline/choline transport system ATP-binding protein 
+opuBB	glycine betaine/proline/choline transport system permease protein
+opuBC	glycine betaine/proline/choline transport system substrate-binding protein 
+opuBD	glycine betaine/proline/choline transport system permease protein
+opuCA	glycine betaine/carnitine/choline transport system ATP-binding protein 
+opuCB	glycine betaine/carnitine/choline transport system permease protein
+opuCC	glycine betaine/carnitine/choline transport system substrate-binding protein 
+opuCD	glycine betaine/carnitine/choline transport system permease protein
+padC	phenolic acid decarboxylase
+panC	pantothenate synthetase
+panD	aspartate 1-decarboxylase
+pheA	prephenate dehydratase
+pheB	chorismate mutase
+phrF	regulator of the activity of phosphatase RapF
+phrK	regulator of the activity of phosphatase RapK
+proJ	glutamate 5-kinase
+rapJ	response regulator aspartate phosphatase
+rapK	response regulator aspartate phosphatase
+rbsA	D -ribose transport system ATP-binding protein
+rbsB	D -ribose transport system substrate-binding protein
+rbsC	D -ribose transport system permease protein
+rbsD	D -ribose transport system permease protein
+rbsK	ribokinase
+rbsR	transcriptional repressor of the ribose operon (LacI family)
+ribA	GTP cyclohydrolase II/3,4-dihydroxy-2-butanone 4-phosphate synthase (dhbp synthase) 
+ribE	riboflavin synthase  chain
+ribH	riboflavin synthase  chain
+ribT	riboflabin biosynthesis, reductase
+rocA	1-pyrroline-5-carboxylate dehydrogenase
+rocB	arginine and ornithine utilization protein
+rocC	amino-acid permease
+sodF	superoxide dismutase
+spsA	nucleotide-diphospho-sugar transferase
+spsB	spore coat polysaccharide biosynthesis protein spsB 
+spsC	spore coat polysaccharide biosynthesis protein
+spsD	spore coat polysaccharide biosynthesis protein spsD 
+spsE	spore coat polysaccharide biosynthesis protein spsE 
+spsF	spore coat polysaccharide biosynthesis protein spsF 
+spsG	spore coat polysaccharide biosynthesis protein spsG 
+spsI	spore coat polysaccharide biosynthesis protein spsI
+spsJ	spore coat polysaccharide biosynthesis protein spsJ 
+spsK	spore coat polysaccharide biosynthesis protein spsK 
+spsL	spore coat polysaccharide biosynthesis protein spsL
+sucC	succinyl-CoA synthetase  chain
+sucD	succinyl-CoA synthetase  chain
+thiD	phosphomethylpyrimidine kinase
+thiE	thiamine-phosphate pyrophosphorylase
+thiM	hydroxyethylthiazole kinase (thiamine biosynthesis)
+thrB	homoserine kinase
+uvrB	excinuclease ABC subunit B
+xlyB	N -acetylmuramoyl-L-alanine amidase, peptidoglycan hydrolase 
+xsa	-L-arabinofuranosidase 2 (arabinosidase)
+xynD	endo-1,4--xylanase (xylanase D)
+yodQ	acetylornitine deacetylase
+ytmN	polar amino acid transport system ATP-binding protein"

@@ -1,0 +1,20 @@
+﻿Gene,ECK,JW,b,PEC,FC,Description
+ alaS,ECK2692,JW2667,b2697,E,08-Feb,Alanyl-tRNA synthetase
+ coaA,ECK3966,JW3942,b3974,E,08-Feb,Pantothenate kinase
+ coaE,ECK0103,JW0100,b0103,E,08-Feb,Dephospho-CoA kinase
+ dnaG,ECK3056,JW3038,b3066,E,08-Feb,DNA primase
+ glmM,ECK3165,JW3143,b3176,E,08-Jul,Phosphoglucosamine mutase
+ glyS,ECK3547,JW3530,b3559,E,08-Feb,"Glycine tRNA synthetase, beta subunit"
+ groEL,ECK4137,JW4103,b4143,E,08-Feb,Cpn60 chaperonin GroEL
+ ileS,ECK0027,JW0024,b0026,E,08-Feb,Isoleucyl-tRNA synthetase
+ parC,ECK3010,JW2987,b3019,E,08-Feb,"DNA topoisomerase IV, subunit A"
+ prfB,ECK2886,JW5847,b2891,E,08-May,Peptide chain release factor RF-2
+ polA,ECK3855,JW3835,b3863,E,08-Feb,DNA polymerase I
+ rho,ECK3775,JW3756,b3783,E,08-Jun,Transcription termination factor
+ rpoD,ECK3057,JW3039,b3067,E,08-May,"RNA polymerase, sigma 70 (sigma D) factor"
+ yhbG,ECK3190,JW3168,b3201,E,08-Feb,Lipopolysaccharide export system ATP-binding protein
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
