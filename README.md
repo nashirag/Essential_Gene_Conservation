@@ -12,4 +12,5 @@ Here the essential gene list of *Bacillus subtilis* is compiled through three pr
 **3. OrthoDB_GeneFinding.ipynb**<br>
 To search for orthologs, the ortholog database was obtained from OrthoDB then manually searched for the relevant essential genes, to create a list of essential orthologous groups for *B. subtilis* and *E. coli*. As the files were too large to be included, please refer to OrthoDB to obtain source files, then utilize the notebook to recreate the resulting datasets.
 ***
-**We refer users to the readme.txt for environment requirements for these notebooks.**
+**We refer users to the requirements.txt for environment requirements for these notebooks.**<br><br>
+```pip install -r requirements.txt```
